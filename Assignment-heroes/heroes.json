@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Iron man",
+    "firstName": "tony",
+    "lastName": "stark",
+    "power": "7",
+    "city": "california"
+  },
+  {
+    "title": "hulk",
+    "firstName": "robert",
+    "lastName": "bruce",
+    "power": "5",
+    "city": "brazil"
+  }
+]
